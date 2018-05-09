@@ -9,7 +9,5 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
   return object;
 }
   
-}
 
-var newObj = (object, key)
-delete newObj.object
+
